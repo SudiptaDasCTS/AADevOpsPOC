@@ -74,10 +74,24 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\bootstrap.min.css" />
+    <Content Include="CSS\dataTables.tableTools.min.css" />
+    <Content Include="CSS\font-awesome.min.css" />
+    <Content Include="HTML\Index.html" />
+    <Content Include="JS\bootstrap.min.js" />
+    <Content Include="JS\dataTables.tableTools.min.js" />
+    <Content Include="JS\html5shiv.min.js" />
+    <Content Include="JS\jquery.dataTables.min.js" />
+    <Content Include="JS\jquery.min.js" />
+    <Content Include="JS\jquery.tmpl.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Handlers\" />
+    <Folder Include="Images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace AADevOpsPOC.Tests
 {
     [TestClass]
-    public class UnitTest1
+    public class Dashboard
     {
         [TestMethod]
         public void TestMethod1()
