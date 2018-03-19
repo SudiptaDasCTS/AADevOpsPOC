@@ -9,7 +9,12 @@ namespace AADevOpsPOC.Tests
         [TestMethod]
         public void TestMethod1()
         {
-
+            Assert.IsTrue(true);
         }
+        public void TestMethod2()
+        {
+            Assert.IsTrue(true);
+        }
+
     }
 }
