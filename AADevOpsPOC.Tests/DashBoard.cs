@@ -9,6 +9,7 @@ namespace AADevOpsPOC.Tests
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
