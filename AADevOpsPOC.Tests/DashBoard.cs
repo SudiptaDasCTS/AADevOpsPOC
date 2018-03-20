@@ -7,8 +7,9 @@ namespace AADevOpsPOC.Tests
     public class Dashboard
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethod3()
         {
+            //test
         }
     }
 }
