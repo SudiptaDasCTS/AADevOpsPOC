@@ -14,6 +14,7 @@ namespace AADevOpsPOC.Tests
         public void TestMethod2()
         {
             Assert.IsTrue(true);
+
         }
 
     }
